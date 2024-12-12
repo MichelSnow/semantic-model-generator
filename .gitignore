@@ -36,3 +36,6 @@ semantic_model_generator/output_models/*.yaml
 
 # test coverage
 .coverage
+
+# Files to ignore
+connections.toml
